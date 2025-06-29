@@ -26,7 +26,7 @@ Project to identify unknown archaeological sites in the Xingu River Basin (Amazo
 ## 📥 Instructions for Playing the Script
 1. Download the Data
   - Go to the following link and download the dataset:
-👉 https://drive.google.com/file/d/1l4d2YXMcgkc8mDHtn4tzasHOZY6gM8VA/view
+- 👉 https://drive.google.com/file/d/1l4d2YXMcgkc8mDHtn4tzasHOZY6gM8VA/view
 
 2. Open the Notebook in Google Colab
 - Click the "Open in Colab" button (if available in the repository).
